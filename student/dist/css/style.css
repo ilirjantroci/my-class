@@ -1,0 +1,23 @@
+#nxenesitindex {
+    border-top: 5px solid red;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.users-list>li img {
+    border-radius: 60%;
+    max-width: 100%;
+    
+    text-align: center;
+}
+
+.users-list>li a {
+	display: block;
+	color: black;
+	
+}
+
+#klasatindex {
+	border-top: 5px solid blue;
+}
+
